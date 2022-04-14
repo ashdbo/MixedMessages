@@ -1,0 +1,29 @@
+* {
+    text-align: center;
+}
+
+h1 {
+    text-decoration: underline;
+    font-weight: bold;
+}
+
+h3 {
+    line-height: 1.5;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+button {
+    font-weight: bolder;
+}
+
+#color1, #color2 {
+    border: 2px solid grey;
+    margin-right: auto;
+    margin-left: auto;
+    margin-bottom: 30px;
+    display: inline-block;
+    width: 50px;
+    height: 50px;
+}
+
